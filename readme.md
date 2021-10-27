@@ -18,7 +18,7 @@ Voici une modification du fFouille de Fellow#3858, cette version permet d'avoir 
    ou bien
 ``ensure esx-foltone-qalle-sellvehicles``
 
-### Repositorie original : https://github.com/Fellow25/fFouille
+### Repositories original : https://github.com/Fellow25/fFouille
 
 ---
 
