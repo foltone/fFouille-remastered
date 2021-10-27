@@ -1,6 +1,5 @@
 # Ffouille remastered
 
-![GitHub repo size](https://img.shields.io/github/repo-size/foltone/fFouille-remastered?color=blue&label=Taille&logo=github&logoColor=blue&style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/foltone/fFouille-remastered?color=blue&logo=github&logoColor=blue&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/foltone/fFouille-remastered?color=blue&label=Langages&logo=github&logoColor=blue&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/foltone/fFouille-remastered?color=%232C2D72&logo=lua&logoColor=%232C2D72&style=for-the-badge)
