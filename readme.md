@@ -1,6 +1,5 @@
 # Ffouille remastered
 
-![GitHub watchers](https://img.shields.io/github/watchers/foltone/fFouille-remastered?color=blue&logo=github&logoColor=blue&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/foltone/fFouille-remastered?color=blue&label=Langages&logo=github&logoColor=blue&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/foltone/fFouille-remastered?color=%232C2D72&logo=lua&logoColor=%232C2D72&style=for-the-badge)
 
@@ -13,9 +12,9 @@ Voici une modification du fFouille de Fellow#3858, cette version permet d'avoir 
 1) Télécharger: https://github.com/foltone/fFouille-remastered
 
 2) Ajoutez ceci dans votre server.cfg :
-``start esx-foltone-qalle-sellvehicles``
+``start fFouille``
    ou bien
-``ensure esx-foltone-qalle-sellvehicles``
+``ensure fFouille``
 
 ### Repositories original : https://github.com/Fellow25/fFouille
 
