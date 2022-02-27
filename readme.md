@@ -18,6 +18,9 @@ Voici une modification du fFouille de Fellow#3858, cette version permet d'avoir 
 
 ### Repositories original : https://github.com/Fellow25/fFouille
 
+## Discord
+https://discord.com/invite/X9ReemrhKh
+
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?hl=fr&tf=cm&fs=1&to=foltonedev@gmail.com)
